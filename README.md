@@ -4,8 +4,8 @@
 必备的库：
     (1)Selenium
     (2)xlsxwriter（用于将爬取到的数据写入表格中）
-涉及的智库：
-    (1)Rand Corporation
+涉及的智库：\n
+    (1)Rand Corporation\n
     (2)Belfer Center
     (3)Atlantic Council
     (4)Brookings Institution
