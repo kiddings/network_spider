@@ -2,8 +2,8 @@
 爬取CNN网站上关于一些智库的新闻  
 爬虫框架： selelium（所以速度会比较慢）  
 必备的库：  
-    (1)Selenium  
-    (2)xlsxwriter（用于将爬取到的数据写入表格中）  
+    *Selenium  
+    *xlsxwriter（用于将爬取到的数据写入表格中）  
 涉及的智库：  
     (1)Rand Corporation  
     (2)Belfer Center  
